@@ -12,10 +12,10 @@
     .
     ├── ...
     ├── src
-        ├── 1_numerator_d=2_domain.mv                     # 
-        ├── 2_CheckSolutionGeneralDomain.mv               #  
-        ├── 3_denominator_final.mv                        #
-        ├── 4_numerator_general_d_ball.mv                 #
-        ├── 5_numerator_general_d_domain.mv               #
-        ├── 6_CheckSolutionGeneralDomain_d=9.mv           #
-        └── 7_Example_d=7.mv                              #
+        ├── 1_numerator_d=2_domain.mv                     # Section 5: Proof of Theorem 1.1: d = 2
+        ├── 2_CheckSolutionGeneralDomain.mv               # Section 6: Proof of Theorem 1.1 3 <= d<=8 
+        ├── 3_denominator_final.mv                        # Section 6: Proof of Theorem 1.1 3 <= d<=8 
+        ├── 4_numerator_general_d_ball.mv                 # Section 6.1: Proof of Theorem 6.8: a d-dimensional unit ball  
+        ├── 5_numerator_general_d_domain.mv               # Section 6.2: Proof of Theorem 1.1 3 <= d<=8
+        ├── 6_CheckSolutionGeneralDomain_d=9.mv           # Lemma A.3
+        └── 7_Example_d=7.mv                              # An example to show the finite ROC of stopped BM up to the first exit time from a general d-dim regular domain.
