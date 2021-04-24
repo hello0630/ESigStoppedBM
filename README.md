@@ -9,7 +9,9 @@
     ├── src                     # Maple souce code files 
     └── README.md
 ### Source files
-    src
+.
+├── ...
+├── src
     ├── 1_numerator_d=2_domain.mv                     # 
     ├── 2_CheckSolutionGeneralDomain.mv               #  
     ├── 3_denominator_final.mv                        #
