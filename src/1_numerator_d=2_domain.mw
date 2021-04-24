@@ -119,11 +119,11 @@
 </Output>
 </Group>
 <Group labelreference="L958" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L957" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Heading 2" layout="Heading 2"><Font encoding="UTF-8">We verify $\134alpha$ defined in Horatio's paper is equal to  -beta_minus*eta_minus*8*2/ (</Font><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYrLUkjbWlHRiQ2JVEqZXRhX21pbnVzRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEnJnNkb3Q7RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkwtRiw2JVEpZXRhX3BsdXNGJ0YvRjJGNS1GLDYlUStiZXRhX21pbnVzRidGL0YyRjUtRiw2JVEqYmV0YV9wbHVzRidGL0YyLyUwZm9udF9zdHlsZV9uYW1lR1EpMkR+SW5wdXRGJ0Y5">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYrLUkjbWlHRiQ2JVEqZXRhX21pbnVzRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEnJnNkb3Q7RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRJjAuMGVtRicvJSdyc3BhY2VHRkwtRiw2JVEpZXRhX3BsdXNGJ0YvRjJGNS1GLDYlUStiZXRhX21pbnVzRidGL0YyRjUtRiw2JVEqYmV0YV9wbHVzRidGL0YyLyUwZm9udF9zdHlsZV9uYW1lR1EpMkR+SW5wdXRGJ0Y5</Equation>). <Font executable="true"> zeta = beta_plus/2.</Font></Text-field>
+<Input><Text-field style="Heading 2" layout="Heading 2">Verify <Equation executable="false" style="Heading 2" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJSxtYXRodmFyaWFudEdRJWJvbGRGJy8lK2ZvbnR3ZWlnaHRHRjE=">JSFH</Equation><Font size="16" style="2D Math" bold="true" executable="false">alpha =   -beta_minus*eta_minus*8*2 / (</Font><Equation executable="true" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYuLUkjbWlHRiQ2KFEqZXRhX21pbnVzRicvJSVzaXplR1EjMTZGJy8lJWJvbGRHUSV0cnVlRicvJSdpdGFsaWNHRjQvJSxtYXRodmFyaWFudEdRLGJvbGQtaXRhbGljRicvJStmb250d2VpZ2h0R1ElYm9sZEYnLUkjbW9HRiQ2MFEnJnNkb3Q7RidGL0YyL0Y4RjxGOi8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGRC8lKXN0cmV0Y2h5R0ZELyUqc3ltbWV0cmljR0ZELyUobGFyZ2VvcEdGRC8lLm1vdmFibGVsaW1pdHNHRkQvJSdhY2NlbnRHRkQvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR0ZTLUYsNihRKWV0YV9wbHVzRidGL0YyRjVGN0Y6Rj0tRiw2KFErYmV0YV9taW51c0YnRi9GMkY1RjdGOkY9LUYsNihRKmJldGFfcGx1c0YnRi9GMkY1RjdGOkYvRjIvJTBmb250X3N0eWxlX25hbWVHUSkyRH5JbnB1dEYnRkFGOg==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYuLUkjbWlHRiQ2KFEqZXRhX21pbnVzRicvJSVzaXplR1EjMTZGJy8lJWJvbGRHUSV0cnVlRicvJSdpdGFsaWNHRjQvJSxtYXRodmFyaWFudEdRLGJvbGQtaXRhbGljRicvJStmb250d2VpZ2h0R1ElYm9sZEYnLUkjbW9HRiQ2MFEnJnNkb3Q7RidGL0YyL0Y4RjxGOi8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGRC8lKXN0cmV0Y2h5R0ZELyUqc3ltbWV0cmljR0ZELyUobGFyZ2VvcEdGRC8lLm1vdmFibGVsaW1pdHNHRkQvJSdhY2NlbnRHRkQvJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR0ZTLUYsNihRKWV0YV9wbHVzRidGL0YyRjVGN0Y6Rj0tRiw2KFErYmV0YV9taW51c0YnRi9GMkY1RjdGOkY9LUYsNihRKmJldGFfcGx1c0YnRi9GMkY1RjdGOkYvRjIvJTBmb250X3N0eWxlX25hbWVHUSkyRH5JbnB1dEYnRkFGOg==</Equation>)<Font size="16" style="2D Math" bold="true" executable="false">. </Font><Font size="16" style="2D Math" bold="true"> zeta = beta_plus/2.</Font></Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYqLUkjbWlHRiQ2JVEqZXRhX21pbnVzRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVExJkludmlzaWJsZVRpbWVzO0YnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSYwLjBlbUYnLyUncnNwYWNlR0ZMLUYsNiVRKWV0YV9wbHVzRidGL0YyRjUtRiw2JVErYmV0YV9taW51c0YnRi9GMkY1LUYsNiVRKmJldGFfcGx1c0YnRi9GMkY5">KipJKmV0YV9taW51c0c2IiIiIkkpZXRhX3BsdXNHRiRGJUkrYmV0YV9taW51c0dGJEYlSSpiZXRhX3BsdXNHRiRGJQ==</Equation></Text-field>
 </Output>
@@ -143,7 +143,7 @@
 </Output>
 </Group>
 <Group labelreference="L964" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L950" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -153,7 +153,7 @@
 </Output>
 </Group>
 <Group labelreference="L1046" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" bold="true" layout="Normal"><Font bold="true">Define the polynomail approximation for the Bessel function (J_appx) and the error bounds (error_bar).</Font></Text-field>
+<Input><Text-field style="Text" bold="true" size="16" layout="Normal"><Font size="16" bold="true">Define the polynomail approximation for the Bessel function (J_appx) and the error bounds (error_bar).</Font></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L183" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -211,7 +211,7 @@
 </Output>
 </Group>
 <Group labelreference="L1067" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal"><Font bold="true">Rebase the Taylor approximation of the numerator at lambda = 2.5.</Font></Text-field>
+<Input><Text-field style="Text" layout="Normal"><Font size="16" bold="true">Rebase the Taylor approximation of the numerator at lambda = 2.5.</Font></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L1064" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -227,7 +227,7 @@
 </Output>
 </Group>
 <Group labelreference="L1090" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group>
 <Group hide-input="false" labelreference="L1062" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -279,7 +279,7 @@
 </Output>
 </Group>
 <Group labelreference="L1082" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYjLUkjbWlHRiQ2I1EhRic=</Equation></Text-field>
+<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2I1EhRicvJStleGVjdXRhYmxlR1EmZmFsc2VGJy8lLG1hdGh2YXJpYW50R1Enbm9ybWFsRic=">JSFH</Equation></Text-field>
 </Input>
 </Group>
 </Worksheet>
