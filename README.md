@@ -16,7 +16,7 @@ A key ingredient of our proof is the introduction of a ``domain-averaging hyperb
     .
     ├── ...
     ├── src
-        ├── 1_numerator_d=2_domain.mv                     # Section 5: Proof of Theorem 1.1: <img src="https://render.githubusercontent.com/render/math?math=%24d%20%3D%202%24">
+        ├── 1_numerator_d=2_domain.mv                     # Section 5: Proof of Theorem 1.1: $d = 2$
         ├── 2_CheckSolutionGeneralDomain.mv               # Section 6: Proof of Theorem 1.1: <img src="https://render.githubusercontent.com/render/math?math=%24%203%20%5Cleq%20d%20%5Cleq%208%24"> 
         ├── 3_denominator_final.mv                        # Section 6: Proof of Theorem 1.1: <img src="https://render.githubusercontent.com/render/math?math=%24%203%20%5Cleq%20d%20%5Cleq%208%24"> 
         ├── 4_numerator_general_d_ball.mv                 # Section 6.1: Proof of Theorem 6.8: a <img src="https://render.githubusercontent.com/render/math?math=%24d%24">-dimensional unit ball  
